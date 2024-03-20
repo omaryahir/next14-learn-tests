@@ -1,6 +1,6 @@
 
 > [!WARNING]  
-> This project has been moved to [next14-learn-test]
+> This project was originally started in [talleres]
 
 ## Next.js App Router Course - Starter
 
